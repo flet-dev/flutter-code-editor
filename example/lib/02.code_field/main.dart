@@ -2,7 +2,7 @@
 // instead of an ordinary TextField.
 // This automatically adds the gutter, code folding, and basic autocompletion.
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_code_editor/flutter_code_editor.dart';
 import 'package:flutter_highlight/themes/monokai-sublime.dart';
 import 'package:highlight/languages/java.dart';

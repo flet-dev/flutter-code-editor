@@ -1,7 +1,7 @@
 // TODO(alexeyinkin): Remove when dropping support for Flutter < 3.10, https://github.com/akvelon/flutter-code-editor/issues/245
 // ignore_for_file: unnecessary_non_null_assertion
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import '../code_field/code_controller.dart';
 import '../line_numbers/gutter_style.dart';

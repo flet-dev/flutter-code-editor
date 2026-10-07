@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_code_editor/src/code_field/search_result_highlighted_builder.dart';
 import 'package:flutter_code_editor/src/search/match.dart';
 import 'package:flutter_code_editor/src/search/result.dart';
