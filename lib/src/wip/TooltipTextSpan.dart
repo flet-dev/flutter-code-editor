@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 const double LINE_NUMBER_WIDTH = 42;
 const TextAlign LINE_NUMBER_ALIGN = TextAlign.right;
